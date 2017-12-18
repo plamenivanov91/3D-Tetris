@@ -10,9 +10,13 @@ How to start:
 Controls:
 
 Z - Anti-Clockwise Rotation
+
 C - Clockwise Rotation
+
 P - Pause/Unpause Game
+
 R - Restart Game
+
 Down Arrow - Accelerate
 
 
